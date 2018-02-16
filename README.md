@@ -1,4 +1,9 @@
-# Gradle for Android and Java Final Project
+# Tell a Joke
+Android App built from scratch to be submitted as the fourth project at Udacity Android Nanodegree program Edit
+Add topics
+
+
+# Gradle for Android
 
 In this project, I created an app with multiple flavors that uses
 multiple libraries and Google Cloud Endpoints. The finished app will consist
